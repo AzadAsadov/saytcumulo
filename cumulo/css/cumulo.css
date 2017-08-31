@@ -1,0 +1,35 @@
+.container{
+	width: 1500px;
+	margin: 0 auto;
+}
+#logo-header{
+	margin-top: 31.5px;
+	margin-left: 189px;
+}
+
+ section div.main-menu ul.menu > li.menu-item{
+ 	display: block;
+ 	float: right;
+ 	position: relative;
+ 	height: 92px;
+ 	color: #356bc4; 
+ }
+ header#cmo-header nav div.main-menu ul.menu > li.menu-item > a {
+ 	padding: 15px 25px;
+    margin: 19.5px 0;
+    display: block;
+    transition: background-color 0.4s ease-in-out, color 0.4s ease-in-out;	
+ }
+.menu-item{
+	padding-left: 25px;
+	padding-right: 10px;
+}
+.mas{
+   right: 150px;
+   top: -31.5px;
+}
+.main-bg{
+  background: url(../img/slider-fashion-bg.jpg) center center  no-repeat;
+  width: 1000px;
+  height: 800px;
+}
